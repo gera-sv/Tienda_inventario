@@ -7,7 +7,8 @@ Inventario = {
     "Arroz": 3000, 
     "Carne": 8000, 
     "Alverja": 3500,
-    "Platano": 3700
+    "Platano": 3700,
+    "Papa": 2300
 }
 Promociones = {
     "Alverja": 0.10,
