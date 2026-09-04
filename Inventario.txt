@@ -1,0 +1,14 @@
+Inventario
+Huevos: 12000
+Leche: 5000
+Pan: 4000
+Pasta: 2500
+Lentejas: 2700 
+Arroz: 3000 
+Carne: 8000 
+Alverja: 3500
+
+Promociones
+Alverja: 3500 - 10% 
+Huevos: 12000 - 20%
+Pan: 4000 - 5%
